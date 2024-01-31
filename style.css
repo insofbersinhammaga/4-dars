@@ -1,0 +1,18 @@
+* {
+ 
+}
+
+
+.botton {
+  padding: 5px;
+  background-color: gold;
+  cursor: pointer;
+  border-radius: 10px;
+  margin-left: 100px;
+  margin-top: 10px;
+}
+.div {
+  border: 1px solid black;
+  padding: 10px;
+  width: 50%;
+}
